@@ -2,9 +2,8 @@ package sudoku;
 
 import java.util.Set;
 
-
 public class Cell {
-    
+
     int row;
     int col;
     Set<Integer> solutions;
